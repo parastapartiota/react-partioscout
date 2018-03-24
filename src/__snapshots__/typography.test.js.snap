@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading can render <h2> 1`] = `
+Array [
+  "test",
+]
+`;
+
+exports[`Heading renders <h1> by default 1`] = `
+Array [
+  "test",
+]
+`;
+
+exports[`PartioScoutTypography can render <main> 1`] = `
+Array [
+  "test",
+]
+`;
+
+exports[`PartioScoutTypography renders <div> by default 1`] = `
+Array [
+  "test",
+]
+`;
+
+exports[`Text can render <div> 1`] = `
+Array [
+  "test",
+]
+`;
+
+exports[`Text renders <p> by default 1`] = `
+Array [
+  "test",
+]
+`;

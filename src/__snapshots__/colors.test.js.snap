@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Colors BLACK 1`] = `"#000000"`;
+
+exports[`Colors BLUE 1`] = `"#253764"`;
+
+exports[`Colors GREEN 1`] = `"#14a54b"`;
+
+exports[`Colors LIGHT_BLUE 1`] = `"#28a9e1"`;
+
+exports[`Colors ORANGE 1`] = `"#efa01e"`;
+
+exports[`Colors RED 1`] = `"#28a9e1"`;
+
+exports[`Colors WHITE 1`] = `"#ffffff"`;
+
+exports[`Colors YELLOW 1`] = `"#f0e005"`;
